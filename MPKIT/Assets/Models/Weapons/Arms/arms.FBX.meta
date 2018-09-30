@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: a097a86cd908c12428861f8d51c788e0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Circle002
+    100004: Circle003
+    100006: DrawCall_0055
+    100008: Dummy001
+    100010: Dummy002
+    100012: HeadCam
+    100014: IK Chain01
+    100016: IK Chain02
+    100018: l forearm
+    100020: l index low
+    100022: l index mid
+    100024: l indextip
+    100026: l middle mid
+    100028: l middle tip
+    100030: l middlelow
+    100032: l pinky low
+    100034: l pinky mid
+    100036: l pinky tip
+    100038: l ring low
+    100040: l ring mid
+    100042: l ring tip
+    100044: l thumb low
+    100046: l thumb mid
+    100048: l thumb tip
+    100050: l upperarm
+    100052: l wriste
+    100054: Object01
+    100056: r forearm
+    100058: r index low
+    100060: r index mid
+    100062: r indextip
+    100064: r middle mid
+    100066: r middle tip
+    100068: r middlelow
+    100070: r pinky low
+    100072: r pinky mid
+    100074: r pinky tip
+    100076: r ring low
+    100078: r ring mid
+    100080: r ring tip
+    100082: r thumb low
+    100084: r thumb mid
+    100086: r thumb tip
+    100088: r upperarm
+    100090: r wriste
+    100092: yeyeye
+    400000: //RootNode
+    400002: Circle002
+    400004: Circle003
+    400006: DrawCall_0055
+    400008: Dummy001
+    400010: Dummy002
+    400012: HeadCam
+    400014: IK Chain01
+    400016: IK Chain02
+    400018: l forearm
+    400020: l index low
+    400022: l index mid
+    400024: l indextip
+    400026: l middle mid
+    400028: l middle tip
+    400030: l middlelow
+    400032: l pinky low
+    400034: l pinky mid
+    400036: l pinky tip
+    400038: l ring low
+    400040: l ring mid
+    400042: l ring tip
+    400044: l thumb low
+    400046: l thumb mid
+    400048: l thumb tip
+    400050: l upperarm
+    400052: l wriste
+    400054: Object01
+    400056: r forearm
+    400058: r index low
+    400060: r index mid
+    400062: r indextip
+    400064: r middle mid
+    400066: r middle tip
+    400068: r middlelow
+    400070: r pinky low
+    400072: r pinky mid
+    400074: r pinky tip
+    400076: r ring low
+    400078: r ring mid
+    400080: r ring tip
+    400082: r thumb low
+    400084: r thumb mid
+    400086: r thumb tip
+    400088: r upperarm
+    400090: r wriste
+    400092: yeyeye
+    2300000: DrawCall_0055
+    2300002: Object01
+    3300000: DrawCall_0055
+    3300002: Object01
+    4300000: yeyeye
+    4300002: DrawCall_0055
+    4300004: Object01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: yeyeye
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
