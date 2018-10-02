@@ -1,0 +1,21 @@
+"{
+	\"Walk\":{
+		\"Run\":1.00793
+	},
+	\"Run\":{
+		\"Walk\":4.00259,
+		\"Jump\":2
+	},
+	\"Idle\":{
+		\"Dance\":5,
+		\"Clap\":1.08086e1
+	},
+	\"Right_Strafe\":{
+		\"Strafe\":4,
+		\"Dodge\":9.01218
+	},
+	\"Front_Strafe\":{
+		\"Strafe\":\"6\",
+		\"Idle_Strafe\":1.20107e1
+	}
+}"
